@@ -2,7 +2,8 @@
   "name": "com.company.app.TicTacToe",
   "description": "joseLights",
   "dependencies": {
-    "@lightningjs/sdk": "^4.8.1"
+    "@lightningjs/sdk": "^4.8.1",
+    "lottie-web": "^5.8.1"
   },
   "lint-staged": {
     "*.js": [
