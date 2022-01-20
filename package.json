@@ -3,7 +3,8 @@
   "description": "joseLights",
   "dependencies": {
     "@lightningjs/sdk": "^4.8.1",
-    "lottie-web": "^5.8.1"
+    "lottie-web": "^5.8.1",
+    "typescript": "^4.5.5"
   },
   "lint-staged": {
     "*.js": [
