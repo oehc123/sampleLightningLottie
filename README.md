@@ -1,5 +1,14 @@
 # joseLights
 
+To run this sample:
+
+```
+npm install
+tsc
+lng dev
+```
+
+
 ## com.company.app.TicTacToe
 
 ### Getting started
