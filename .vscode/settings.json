@@ -6,5 +6,9 @@
   "eslint.alwaysShowStatus": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "files.exclude": {
+    "**/*.js": {"when": "$(basename).ts"},
+    "**/*.js.map": true
+    }
 }
