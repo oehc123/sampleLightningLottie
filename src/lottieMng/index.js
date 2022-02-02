@@ -5,7 +5,7 @@
 
 //import exampleAnimation from './animations/example.json';
 
-import * as exampleAnimation from '../../static/animation/92541-loading.json'
+import * as exampleAnimation from '../../static/animation/example.json'
 import { LottieManager } from './LottieManager'
 
 export { exampleAnimation, LottieManager }
